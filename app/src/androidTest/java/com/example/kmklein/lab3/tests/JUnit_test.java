@@ -1,4 +1,4 @@
-package tests;
+package com.example.kmklein.lab3.tests;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.widget.TextView;
