@@ -1,4 +1,4 @@
-package com.example.kmklein.lab3;
+package com.example.kmklein.lab3.tests;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
